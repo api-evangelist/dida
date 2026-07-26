@@ -1,8 +1,16 @@
 aid: dida
 name: Dida
-description: 'Dida is a company surfaced as a portfolio company of idg-capital and added to the API Evangelist
-  network as a stub for enrichment. Sector: consumer-technology. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  DidaTravel (道旅科技, Shenzhen Dida Travel Technology Co., Ltd.) is a
+  technology-driven global travel distribution company. It operates an open
+  platform that connects travel buyers and suppliers, providing flexible
+  connectivity solutions across hotels, flights, airport transfers, and
+  attraction tickets. Headquartered in Shenzhen, China, DidaTravel serves online
+  travel agencies, tour operators, and other travel businesses worldwide with
+  aggregated hotel content, dynamic rates, and booking delivered through its B2B
+  distribution technology. The company positions itself as a global technology
+  leader in travel product connectivity and is backed by investors including IDG
+  Capital.
 url: https://raw.githubusercontent.com/api-evangelist/dida/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,15 +18,45 @@ x-backed-by:
 - idg-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.dida.com/dida/brand/main/favicon.ico
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Travel
+- Travel Technology
+- Hotels
+- Hotel Distribution
+- Travel Distribution
+- B2B
 - Consumer Technology
 apis: []
+common:
+- type: DomainSecurity
+  url: security/dida-domain-security.yml
+- type: Website
+  url: https://www.didatravel.com
+- type: GitHubOrganization
+  url: https://github.com/DidaTravel
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
