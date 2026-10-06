@@ -43,7 +43,7 @@ accessModel:
 image: https://cdn.dida.com/dida/brand/main/favicon.ico
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-10-06'
 tags:
 - Company
 - Travel
@@ -55,6 +55,8 @@ tags:
 - Consumer Technology
 apis: []
 common:
+- url: https://www.didatravel.com/blog/
+  type: Blog
 - type: DomainSecurity
   url: security/dida-domain-security.yml
 - type: Website
