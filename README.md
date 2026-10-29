@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Dida is a company surfaced as a portfolio company of idg-capital and added to the API Evangelist network as a stub for enrichment. Sector: consumer-technology. This profile is a lead awaiting the enrichment pipeline.
+DidaTravel (道旅科技, Shenzhen Dida Travel Technology Co., Ltd.) is a technology-driven global travel distribution company. It operates an open platform that connects travel buyers and suppliers, providing flexible connectivity solutions across hotels, flights, airport transfers, and attraction tickets. Headquartered in Shenzhen, China, DidaTravel serves online travel agencies, tour operators, and other travel businesses worldwide with aggregated hotel content, dynamic rates, and booking delivered through its B2B distribution technology. The company positions itself as a global technology leader in travel product connectivity and is backed by investors including IDG Capital.
 
-Backed by: idg-capital
+**Areas:** Company · Travel · Travel Technology · Hotels · Hotel Distribution · Travel Distribution · B2B · Consumer Technology
+
+## Dida on APIs.io
+
+Everything profiled for Dida is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dida/](https://apis.io/providers/dida/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Dida Domain Security](https://apis.io/security/dida/dida-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.didatravel.com)
+- [Blog](https://www.didatravel.com/blog/)
+- [GitHub](https://github.com/DidaTravel)
+
+## API Evangelist rating
+
+**Kin Score 4.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dida/](https://apis.io/providers/dida/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Dida: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dida/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
